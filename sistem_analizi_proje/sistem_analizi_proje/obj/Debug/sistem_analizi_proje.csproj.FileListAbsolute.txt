@@ -1,0 +1,46 @@
+D:\sistem_analizi_proje\sistem_analizi_proje\bin\Debug\sistem_analizi_proje.exe.config
+D:\sistem_analizi_proje\sistem_analizi_proje\bin\Debug\sistem_analizi_proje.exe
+D:\sistem_analizi_proje\sistem_analizi_proje\bin\Debug\sistem_analizi_proje.pdb
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.csproj.AssemblyReference.cache
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form1.resources
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Properties.Resources.resources
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.csproj.GenerateResource.cache
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.csproj.CoreCompileInputs.cache
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.exe
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.pdb
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form2.resources
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form3.resources
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form4.resources
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form5.resources
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form6.resources
+D:\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form7.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\bin\Debug\sistem_analizi_proje.exe.config
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\bin\Debug\sistem_analizi_proje.exe
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\bin\Debug\sistem_analizi_proje.pdb
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.csproj.AssemblyReference.cache
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form1.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form2.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form3.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form4.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form5.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form6.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form7.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Properties.Resources.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.csproj.GenerateResource.cache
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.csproj.CoreCompileInputs.cache
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.exe
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.pdb
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.FormGiris.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.HesaplamaModülü.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form8.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form9.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form10.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form11.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form12.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form13.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Form14.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Teslimat.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Tahsilat.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.AylıkListe.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.Rapor.resources
+D:\SİSTEM ANALİZİ\sistem_analizi_proje\sistem_analizi_proje\obj\Debug\sistem_analizi_proje.EkleDuzelt.resources
